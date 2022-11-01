@@ -21,5 +21,12 @@ public class main
 
       System.out.println("Tao la thng moi tao kh bt may sua phan main tren web");
     
+      
+      System.out.println("Tao la thng cu tao sua phan main");
+        
+      System.out.println("Tao sua phan main tren web");
+        
+
+
     }
 }
