@@ -16,5 +16,9 @@ public class main
      
       System.out.println("Tao la thng cu va t cung code ");
 
+
+      System.out.println("Tao la thng moi tao dang code va da day len");
+      
+    
     }
 }
