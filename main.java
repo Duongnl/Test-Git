@@ -5,8 +5,9 @@ public class main
       System.out.println("Hello tui la main day");
       System.out.println("Them hi tui la main ne");
       bo b = new bo();
-      System.out.println("Tao la thang moi ne, tao moi sua them cau moi ne");
+      
       b.keu();
       System.out.println("Tao la thang cu moi them cau moi sau thang moi");
+      System.out.println("tao la thang moi ne hihi do ngoc");
     }
 }
