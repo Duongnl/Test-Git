@@ -19,6 +19,8 @@ public class main
 
       System.out.println("Tao la thng moi tao dang code va da day len");
       
-    
+      System.out.println("Tao la thng cu tao sua phan main");
+
+
     }
 }
