@@ -7,7 +7,8 @@ public class main
       bo b = new bo();
       
       b.keu();
-      System.out.println("Tao la thang moi chua biet thang cu no sua cai gi het");
-       
+      System.out.println("Tao la thang cu moi them cau moi sau thang moi");
+      System.out.println("tao la thang moi ne hihi do ngoc");
+      System.out.println("dam xoa 2 cau tren cua t va sua lai ha thng moi ngu");
     }
 }
