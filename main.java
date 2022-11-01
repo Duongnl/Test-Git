@@ -4,5 +4,7 @@ public class main
     {
       System.out.println("Hello tui la main day");
       System.out.println("Them hi tui la main ne");
+      bo b = new bo();
+      b.keu();
     }
 }
