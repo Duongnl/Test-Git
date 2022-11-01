@@ -13,6 +13,9 @@ public class main
       
 
       System.out.println("Tao la thng cu ne dong bo theo tao di");
+
+      System.out.println("Tao la thng moi tao dang code va da day len");
+      
     
     }
 }
